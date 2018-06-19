@@ -11,7 +11,9 @@ When a customer wants to book a consignment, they use our web interface to enter
 
 Your task is to build a service that could serve these requests for shipping proposals. You don't need to create a web UI but some suitable way of demonstrating a request, e.g. via a simple script that makes a call with some test data.
 
-Using layering methodology to allow switching between different database implementations (e.g. RAM or MongoDB), would be a plus but in no means necessary!
+Using layering methodology to allow switching between different database implementations (e.g. RAM or MongoDB), would be a plus but in no means necessary.
+
+The project should include tests.
 
 ### Requirements
 
